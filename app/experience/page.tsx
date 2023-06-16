@@ -1,0 +1,13 @@
+import { siteConfig } from "@/config/site"
+import ExperienceItem from "@/components/experience-item"
+
+export default async function ExperiencePage() {
+  const { workExperiences } = siteConfig
+  return (
+    <div className="grid items-center gap-6 px-16 pb-8 pt-6 md:py-10">
+      {workExperiences.map((item) => (
+        <ExperienceItem {...item} />
+      ))}
+    </div>
+  )
+}
