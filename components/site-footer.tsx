@@ -1,7 +1,11 @@
 import * as React from "react"
+import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
 import { cn } from "@/lib/utils"
+import { buttonVariants } from "@/components/ui/button"
+
+import { Button } from "./ui/button"
 
 export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
   return (
@@ -18,7 +22,7 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
             >
               Yours Truly{" "}
             </a>
-            . Inspired by on{" "}
+            . Inspired by{" "}
             <a
               href="https://ui.shadcn.com"
               target="_blank"
@@ -38,6 +42,16 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
             </a>
             .
           </p>
+        </div>
+        <div className="pb-8 pt-6 md:ml-auto md:py-10">
+          <Link
+            href={siteConfig.links.resume}
+            target="_blank"
+            rel="noreferrer"
+            className={buttonVariants({ variant: "default" })}
+          >
+            Resume
+          </Link>
         </div>
       </div>
     </footer>

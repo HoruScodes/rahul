@@ -15,7 +15,7 @@ export const siteConfig = {
     github: "https://github.com/horuscodes",
     linkedin: "https://www.linkedin.com/in/rahulpipaliya/",
     resume:
-      "https://docs.google.com/document/d/1wzEcJpjWo7SnVH3iFs9vdDuq4ouClF8ozlRPpgmwZ98/edit",
+      "https://docs.google.com/document/d/1DrEcGvplUqe0PIA3xCyfA-FIZ-RKBJBeClhaQoUdFFk/edit?usp=sharing",
     email: "mailto:pipaliya1997@gmail.com",
   },
   workExperiences: [
