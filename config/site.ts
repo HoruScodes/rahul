@@ -41,7 +41,7 @@ export const siteConfig = {
         "Successfully migrated features from .NET to .NET Core, improving performance by up to 35%. Conducted thorough testing and optimization for a seamless transition.",
         "Implemented over 100 fixes and enhancements, Collaborated with customer support to address recurring issues effectively ,reducing customer support tickets by 25%." ,
         "Converted the frontend modules  from Backbone to React/ TypeScript, resulting in a more responsive user interface.",
-        "Collaborated and communicated effectively with diverse teams, actively participating in daily code reviews, and mentoring junior developers to foster a culture of continuous improvement and knowledge sharing".,
+        "Collaborated and communicated effectively with diverse teams, actively participating in daily code reviews, and mentoring junior developers to foster a culture of continuous improvement and knowledge sharing.",
       ],
     },
     {
