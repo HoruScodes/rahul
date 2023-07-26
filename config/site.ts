@@ -15,7 +15,7 @@ export const siteConfig = {
     github: "https://github.com/horuscodes",
     linkedin: "https://www.linkedin.com/in/rahulpipaliya/",
     resume:
-      "https://docs.google.com/document/d/1DrEcGvplUqe0PIA3xCyfA-FIZ-RKBJBeClhaQoUdFFk/edit?usp=sharing",
+      "https://docs.google.com/document/d/1ItTaB-iHiQQJzCwxoArQkl7PjBV5lhpwr2LaU4Gpn04/edit?usp=sharing",
     email: "mailto:pipaliya1997@gmail.com",
   },
   workExperiences: [
@@ -34,11 +34,14 @@ export const siteConfig = {
         "Docker",
       ],
       description: [
-        "Successfully migrated features from .NET to .NETCore, resulting in improved performance of up to 35%. ",
-        "Implemented over 100 fixes and improvements to existing features, resulting in a 25% reduction in customer support tickets.",
-        "Writing unit and integration tests in Jest / Selenium / React Testing Library  to maintain or increase our code coverage, resulting in fewer bugs and improved code quality.",
+        "Mentored and onboarded interns and new employees, fostering their seamless integration into the dev team." ,
+        "Developed comprehensive test cases and suites in (Jest/Selenium/React Testing Library) to increase code coverage to ensure robust functionality and performance of critical features." ,
+        "Spearheaded the development of internal tools, streamlining development processes and boosting productivity. facilitated tasks like code analysis, automated testing, and deployment, saving time and enhancing workflows.",
+        "Authored and maintained internal developer documentation, serving as a valuable resource for understanding complex systems, coding standards, and best practices." ,
+        "Successfully migrated features from .NET to .NET Core, improving performance by up to 35%. Conducted thorough testing and optimization for a seamless transition.",
+        "Implemented over 100 fixes and enhancements, Collaborated with customer support to address recurring issues effectively ,reducing customer support tickets by 25%." ,
         "Converted the frontend modules  from Backbone to React/ TypeScript, resulting in a more responsive user interface.",
-        "Communicate and collaborate with multi-disciplinary teams of engineers, designers, producers, clients  and Actively participate in code reviews on a daily basis.",
+        "Collaborated and communicated effectively with diverse teams, actively participating in daily code reviews, and mentoring junior developers to foster a culture of continuous improvement and knowledge sharing".,
       ],
     },
     {
@@ -55,10 +58,10 @@ export const siteConfig = {
         "MongoDB",
       ],
       description: [
-        "Write modern, performant, and robust code Developed a high-performance web platform for a SaaS product SCIKEY, used by 100+ clients. ",
-        "Successfully migrated Web-Applications from Angular 4 to Angular 7 while ensuring no loss in quality or functionality.",
-        "Migrated major Angularjs Modules to React, improving performance benchmarks by 20%. ",
-        "Used Scrum Agile Methodology in my work (Daily Scrum Meeting, Sprint Backlog, 1 on1 meeting).",
+        "Developed a web platform for the SaaS product SCIKEY, used by 100+ clients. Collaborated closely with product managers and UX designers to translate requirements into efficient and visually appealing user interfaces.",
+        "Successfully migrated Web-Applications from Angular 4 to Angular 7 while ensuring no loss in quality or functionality. Conducted extensive testing and worked closely with QA teams to identify and resolve any issues before deployment.",
+        "Migrated major AngularJS Codebase to React, improving performance benchmarks by 20%. Employed best practices and design patterns to create scalable and maintainable code.",
+        "Actively contributed to the adoption of Scrum Agile Methodology within the team. Facilitated sprint planning meetings, conducted daily scrums, and participated in retrospective sessions to continuously improve team efficiency and product delivery.",
       ],
     },
   ],
